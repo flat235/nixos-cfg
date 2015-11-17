@@ -7,4 +7,5 @@
   };
 
   services.xserver.layout = "de";
+  time.timeZone = "Europe/Berlin";
 }
